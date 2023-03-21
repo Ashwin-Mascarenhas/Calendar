@@ -1,2 +1,1 @@
-# Calendar
-calendar with live date and time
+# Calendar with HTML, CSS & JavaScript
